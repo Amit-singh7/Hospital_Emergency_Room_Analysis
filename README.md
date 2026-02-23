@@ -246,7 +246,5 @@ Data Analyst
 Skills:
 Python
 SQL
-
 Excel
-
 Power BI
